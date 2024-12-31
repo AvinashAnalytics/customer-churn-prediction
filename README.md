@@ -60,5 +60,5 @@ To run the project, you will need Python 3.x and the following libraries:
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/customer-churn-prediction.git
-cd customer-churn-prediction
+git clone https://github.com/AvinashAnalytics/customer-churn-prediction.git
+cd PYTHON-customer-churn-prediction
