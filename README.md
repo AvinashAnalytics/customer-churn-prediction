@@ -61,4 +61,4 @@ Clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/AvinashAnalytics/customer-churn-prediction.git
-cd PYTHON-customer-churn-prediction
+cd customer-churn-prediction
