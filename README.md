@@ -1,7 +1,7 @@
 # 📊 **Customer Churn Analysis & Prediction** 📉
 
 
-![Customer Churn Analysis](https://tse1.mm.bing.net/th?id=OIG4.kKKrdNV0fF_1p_KsLs04&pid=ImgGn) 
+<img src="https://tse1.mm.bing.net/th?id=OIG4.kKKrdNV0fF_1p_KsLs04&pid=ImgGn" alt="Retention Radar" width="500" height="300">
 
 ---
 
